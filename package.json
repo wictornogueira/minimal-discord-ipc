@@ -1,0 +1,22 @@
+{
+  "name": "minimal-discord-ipc",
+  "description": "Minimal Discord IPC client for Node.js",
+  "author": "Wictor Nogueira",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/wictornogueira/minimal-discord-ipc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wictornogueira/minimal-discord-ipc"
+  },
+  "keywords": [
+    "discord",
+    "ipc",
+    "client",
+    "minimal",
+    "presence",
+    "rpc",
+    "activity"
+  ]
+}
